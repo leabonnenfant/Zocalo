@@ -1,0 +1,153 @@
+[
+	{
+		"place": "Lisbone, Portugal",
+		"title": "Samaria - Need an expert in website development",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello! I'm searching for an expert to assist me in designing and developing a website for my business. I have clear ideas about the design and content, but I need someone with technical skills to implement them. Thank you in advance for your help!",
+        "skills_needed": ["Mobile app developement"],
+        "time_needed": "4 months",
+        "remote": true,
+        "isFav": false
+       
+	},
+	{
+        "place": "London",
+		"title": "Market - Looking for help in marketing and communication",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello, I need help with marketing and communication for my business. I need assistance with creating compelling content, managing social media, and setting up advertising campaigns. If you have experience in this area, your help would be invaluable. Thank you!",
+        "skills_needed": ["Marketing et communication"],
+        "time_needed": "1 month",
+        "remote": true,
+        "isFav": false
+	},
+	{
+        "place": "Malaga",
+		"title": "Malaga - Seeking Graphic Design Assistance",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hi there! I'm looking for help with graphic design to improve my brand's visual identity. I need someone skilled in creating logos, marketing materials, and social media graphics. Any assistance would be greatly appreciated. Thank you!",
+        "skills_needed": ["graphism"],
+        "time_needed": "1 week",
+        "remote": true,
+        "isFav": false
+	},
+	{
+        "place": "Bali",
+		"title": "Balia - Need an Artist for Collaboration",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello! I'm in search of an artist to collaborate with on some exciting projects. If you have experience in painting, sculpture, or digital art, your expertise would be invaluable. Thank you in advance for your help!",
+        "skills_needed": ["Art"],
+        "time_needed": "3 months",
+        "remote": false,
+        "isFav": false
+	},
+	{
+		"place": "Berlin, Allemagne",
+		"title": "Second chance - Need a Specialist in SaaS Development",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello! I'm in search of a specialist in SaaS development to help enhance our software offerings. If you have experience in creating scalable, efficient, and user-friendly SaaS applications, your assistance would be invaluable. Thank you in advance for your help!",
+        "skills_needed": ["Saas Solutions"],
+        "time_needed": "3 weeks",
+        "remote": true,
+        "isFav": false
+	},
+	{
+        "place": "Canggu, Indonésie",
+		"title": "CANGU - Need a Motion Graphics Designer",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello! I'm in search of a motion graphics designer to help bring my ideas to life through animation. If you have experience in creating dynamic and visually appealing motion graphics, your expertise would be invaluable. Thank you in advance for your help!",
+        "skills_needed": ["motion design"],
+        "time_needed": "1 day",
+        "remote": false,
+        "isFav": false
+	},
+	{
+		"place": "Medellin, Colombie",
+		"title": "Medellin - Seeking Photography Assistance",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hi there! I'm looking for help with photography to enhance my business's visual content. I need someone skilled in capturing high-quality images for my website and social media platforms. Any assistance would be greatly appreciated. Thank you!",
+        "skills_needed": ["photo"],
+        "time_needed": "1 day",
+        "remote": false,
+        "isFav": false
+	},
+	{
+		"place": "Mexico, Mexique",
+		"title": "Bobo - Need help with digital communication",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello, I need help improving my digital communication. I need assistance with content creation, managing my social media platforms, and enhancing my online SEO. If you have the necessary skills, your help would be greatly appreciated. Thank you!",
+        "skills_needed": ["community management", "Marketing et communication"],
+        "time_needed": "3 days",
+        "remote": true,
+        "isFav": false
+	},
+	{
+		"place": "Taipei, Taiwan",
+		"title": "Tai - Need a Content Creator",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello! I'm searching for a content creator to help me produce high-quality content for my website and social media channels. If you have experience in creating compelling written and visual content, your help would be invaluable. Thank you!",
+        "skills_needed": ["content creation"],
+        "time_needed": "2 weeks",
+        "remote": true,
+        "isFav": false
+	},
+	{
+        "place": "Rio de Janeiro, Brésil",
+		"title": "Obrigado - Looking for a developer to create a website",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello, I'm looking for a developer to help me create a website. The site needs to be responsive, user-friendly, and well-referenced. If you have the necessary skills, I would be delighted to work with you. Thank you!",
+        "skills_needed": ["Mobile app developement"],
+        "time_needed": "4 months",
+        "remote": true,
+        "isFav": false
+	},
+	{
+        "place": "Kuala lampur",
+		"title": "Kuala - Seeking assistance in marketing and communication",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hi there! I'm looking for help with marketing and communication to promote my business. I need assistance in developing an effective strategy, creating engaging content, and managing advertising campaigns. Any help would be greatly appreciated. Thank you!",
+        "skills_needed": ["Marketing et communication"],
+        "time_needed": "1 week",
+        "remote": true,
+        "isFav": false
+	},
+	{
+		"place": "Bangkok",
+		"title": "Ba&nk - Need a Graphic Designer",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello! I'm searching for a graphic designer to help me with various design projects. If you have experience in creating visually appealing designs and branding materials, your expertise would be invaluable. Thank you in advance for your help!",
+        "skills_needed": ["graphism"],
+        "time_needed": "2 months",
+        "remote": true,
+        "isFav": false
+	},
+    {
+        "place": "Budapest, Hongrie",
+		"title": "Buda - Seeking Assistance in Art Projects",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hi there! I'm looking for help with my art projects. I need someone skilled in various art techniques to collaborate on creating unique pieces. Any assistance would be greatly appreciated. Thank you!",
+        "skills_needed": ["Art"],
+        "time_needed": "4 months",
+        "remote": false,
+        "isFav": false
+	},
+	{
+        "place": "Chiang mai",
+		"title": "Chiang - Need a Professional Photographer",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello! I'm in search of a professional photographer to help me with product and promotional photos for my brand. If you have experience in creating compelling visual content, your expertise would be invaluable. Thank you in advance for your help!",
+        "skills_needed": ["photo", "content creation"],
+        "time_needed": "3 days",
+        "remote": false,
+        "isFav":false
+	},
+	{
+        "place": "Buenos Aires, Argentine",
+		"title": "Annitta - Seeking assistance for website design",
+		"image": "Backend/zocalo2-backend/public/logo.png",
+        "description": "Hello, I'm seeking help in creating a website. It will be a showcase website with some interactive features. Any assistance, whether technical or creative, would be greatly appreciated. Thank you for your support!",
+        "skills_needed": ["Mobile app developement", "graphism"],
+        "time_needed": "5 days",
+        "remote": true,
+        "isFav":false
+	}
+]
