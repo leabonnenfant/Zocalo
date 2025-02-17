@@ -2,5 +2,9 @@ node_modules/
 backend/node_modules/
 frontend/node_modules/
 .env
+<<<<<<< HEAD
 .DS_Store
 
+=======
+.DS_Store
+>>>>>>> 4190b69 (clean)

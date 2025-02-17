@@ -17,7 +17,7 @@ const Maps = ({navigation}) => {
   const [modalVisible, setModalVisible] = useState(false);
   const [coworkings, setCoworkings] = useState([]); 
   const favPlaces = useSelector(state => state.user.value.favPlaces) || [];
-  const API_KEY = 'AIzaSyBCpB_ezKsCj7KuaA9v0Op6B2mkOrDY0bQ';
+  const API_KEY = 'process.env.GOOGLE_API_KEY'; // Remplacer par la clé d'origne
   const RADIUS = '1218'; // Rayon en mètres 
   const [place, setPlace] = useState({
                                 googleId: undefined,
